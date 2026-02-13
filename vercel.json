@@ -1,0 +1,9 @@
+{
+  "version": 2,
+  "functions": {
+    "app/api/poem/route.ts": {
+      "runtime": "edge"
+    }
+  }
+}
+
